@@ -10,6 +10,7 @@ At the moment there are just four languages:
 - German ```de.json```
 - Dutch ```nl.json```
 - Chuvash ```cv.json```
+- French ```fr.json```
 
 ### Step 2: Change config
 Open your config:
@@ -39,6 +40,7 @@ Change ```nl.json``` to your own language like ```en.json``` or ```fr.json```. T
 ## Credits
 Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
 German language by [fixing-it](https://github.com/fixing-it),
-Chuvash language by [mirontoli](https://github.com/mirontoli).
+Chuvash language by [mirontoli](https://github.com/mirontoli),
+French language by [kartnico](https://github.com/kartnico).
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
