@@ -27,11 +27,9 @@
                 "Ce que tu as fait aujourd'hui a été utile !",
                 "Est-ce que tu as bien mangé ?"
         ],
-		    "....-01-01": [
-			          "Bonne année!"
-		    ],
-        "....-04-02": [
-			          "Fini les poissons d'Avril!"
-		    ]
-
+	"....-02-04" : [
+	        "Bonne année!"
+	],
+        "....-04-02" : [
+	         "Fini les poissons d'Avril!"
 }
