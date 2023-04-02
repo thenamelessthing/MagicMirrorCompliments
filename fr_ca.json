@@ -5,14 +5,16 @@
                 "Tu peux faire une différence !",
                 "Un joli sourire, pour une jolie journée",
                 "Es-tu es encore en train de regarder ton miroir ?",
-                "Le miroir te dit : 'Salut'"
+                "Le miroir te dit : 'Salut'",
+		"On dirait Schtroumpf coquet!"
         ],
         "morning" : [
                 "Votre coiffure est splendide aujourd'hui !",
                 "Commence la journée avec un sourire",
                 "Aujourd'hui sera une belle journée !",
                 "Cette journée n'est-elle pas géniale ?",
-                "Prépare toi, cette journée sera formidable !"
+                "Prépare toi, cette journée sera formidable !",
+		"Je pense qu'avec un bon café ça serait juste parfait"
         ],
         "afternoon" : [
                 "Tu viens de terminer ton travail...",
@@ -25,7 +27,8 @@
                 "Bon appétit",
                 "J'ai fini ma journée, super !",
                 "Ce que tu as fait aujourd'hui a été utile !",
-                "Est-ce que tu as bien mangé ?"
+                "Est-ce que tu as bien mangé ?",
+		"Il est trop tard pour un café ou un red bull"
         ],
 	"....-01-01" : [
 	        "Bonne année!"
