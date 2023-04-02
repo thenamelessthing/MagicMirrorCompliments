@@ -37,5 +37,6 @@ Change ```en.json``` to your own language like ```fr.json``` or ```fr_ca.json```
 
 ## Credits
 French language by [kartnico](https://github.com/kartnico).
+French Canadian language by [thenamelessthing](https://github.com/thenamelessthing)
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
